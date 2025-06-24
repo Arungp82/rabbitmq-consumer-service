@@ -1,4 +1,4 @@
-package com.rabbitmq.producer_service.demo;
+package com.rabbitmq.consumer_service.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

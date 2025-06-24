@@ -1,4 +1,4 @@
-package com.rabbitmq.producer_service.demo;
+package com.rabbitmq.consumer_service.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.rabbitmq.producer_service.demo.config;
+package com.rabbitmq.consumer_service.demo.config;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
